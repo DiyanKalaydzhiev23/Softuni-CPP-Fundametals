@@ -1,0 +1,3 @@
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/02_Functions/cmake-build-debug/CMakeFiles/02_Functions.dir
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/02_Functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/02_Functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
