@@ -11,8 +11,8 @@ void readArray(int numbers[], int size) {
 }
 
 int main() {
-    int numbers1[MAX_SIZE];
-    int numbers2[MAX_SIZE];
+    int numbers1[MAX_SIZE];  // 0x...123
+    int numbers2[MAX_SIZE];  // 0x...567
 
     int size;
     cin >> size;
