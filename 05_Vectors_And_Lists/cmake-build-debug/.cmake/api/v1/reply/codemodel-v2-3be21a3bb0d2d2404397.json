@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "05_Vectors_And_Lists",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "05_Vectors_And_Lists::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05_Vectors_And_Lists-Debug-c09f0c93ae4963fec70d.json",
+					"name" : "05_Vectors_And_Lists",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/05_Vectors_And_Lists/cmake-build-debug",
+		"source" : "/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/05_Vectors_And_Lists"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
