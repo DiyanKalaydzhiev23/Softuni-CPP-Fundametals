@@ -1,0 +1,3 @@
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/06_Exam_Prep/cmake-build-debug/CMakeFiles/06_Exam_Prep.dir
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/06_Exam_Prep/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diyan/CLionProjects/Softuni-CPP-Fundametals/06_Exam_Prep/cmake-build-debug/CMakeFiles/rebuild_cache.dir
